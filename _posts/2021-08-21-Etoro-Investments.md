@@ -38,7 +38,7 @@ There were many tough times but I never sold anything!
 And now, 1 month later, I have a **30$ profit.**   
 <br> 
 
-![etoro portfolio](bojkos-thoughts/assets/images/image.JPG)   
+![etoro portfolio](/bojkos-thoughts/assets/images/image.JPG)   
 
 <br>
 
@@ -55,7 +55,7 @@ I will wait a bit more beacause I think that crypto will go even higher and then
 
 ---
 
-![photo](assets/images/Capture.JPG)
+![photo](/assets/images/Capture.JPG)
 
 
 
