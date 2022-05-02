@@ -55,7 +55,7 @@ I will wait a bit more beacause I think that crypto will go even higher and then
 
 ---
 
-![photo](/assets/images/Capture.JPG)
+![photo](/bojkos-thoughts/assets/images/Capture.JPG)
 
 
 
