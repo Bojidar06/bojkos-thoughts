@@ -38,7 +38,7 @@ There were many tough times but I never sold anything!
 And now, 1 month later, I have a **30$ profit.**   
 <br> 
 
-![etoro portfolio](/images/image.JPG)   
+![etoro portfolio](bojkos-thoughts/assets/images/image.JPG)   
 
 <br>
 
