@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<link rel="icon" href="icon_path" type="image/icon type">
