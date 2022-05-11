@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-<link rel="icon" href="/bojkos-thoughts/assets/images/logo.jpg" type="image/icon type">
