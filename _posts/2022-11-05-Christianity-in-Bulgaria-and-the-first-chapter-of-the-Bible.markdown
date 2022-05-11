@@ -8,6 +8,8 @@ __Christianity__ is something people in Bulgaria take for granted. Most people s
 The only prayer they do is when they light up a candle in the church. They light it up, close their eyes and say:  
 >"God give me this and give me that, please please"...    
 
+<br>
+
 That's really absurd  and I really hated that. And yeah, I just described myself, that has been me for the past 15 years of my life. I have always been very interested in Philosophy of life, how does the universe work, death, the human brain... But I never though about reading the Bible.  
 Lets ask our best friend Google something:  
 
