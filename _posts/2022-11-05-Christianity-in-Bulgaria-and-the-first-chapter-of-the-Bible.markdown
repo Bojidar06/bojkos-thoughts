@@ -21,7 +21,15 @@ Lets ask our best friend Google something:
 
 <br>
 
-So today, dear readers and radio listeners, we're going to start reading the Bible and to be exact, the first chapter of the first book of the Bible which describes how the Earch is made (according to the author of this chapter).  
+<h4>
+<center>
+So today, dear readers and radio listeners, we're going to start reading the Bible and to be exact, the first chapter of the first book of the Bible which describes how the Earch is made.  
+(according to the author of this chapter)  
+</center>  
+</h4>
+
+<br>
+
 The *creation of Everything* or *the Beggining* is an ethernal discussion. I feel like this is alike Politics and inner information - You shouldn't know it.  
 So if someone publishes this information to the public, he gets killed because of snitching.  
 So if a human beeing founds out how any of this world we live in works, the human race will be stop existing and the living creatures will be restarted, just like the dinosaurs.   
@@ -38,6 +46,3 @@ Okey! Bible now.
 5. И Бог нарече светлината Ден, а тъмнината нарече Нощ. И стана вечер, и стана утро, ден първи.
 6. И Бог каза: Да бъде простор посред водите, който да раздели вода от вода.
 7. И Бог направи простора; и раздели водата, която беше под простора, от водата, която беше над простора; и стана така.
-
-
-
