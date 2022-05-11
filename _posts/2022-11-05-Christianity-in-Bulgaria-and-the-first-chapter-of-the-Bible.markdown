@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Religions and God"
+title:  "Christianity in Bulgaria and the first chapter of the Bible"
 date:   2022-05-07 15:12:29 +0300
 ---
 
