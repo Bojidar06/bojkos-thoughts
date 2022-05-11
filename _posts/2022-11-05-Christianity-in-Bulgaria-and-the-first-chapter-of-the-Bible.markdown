@@ -14,8 +14,8 @@ That's really absurd  and I really hated that. And yeah, I just described myself
 Lets ask our best friend Google something:  
 
 > #### "Why do Christians read the Bible?"
-> " The Bible is used by Christians ___to give them guidance about how they can live their their lives in the way God would want them to.___  
-> There is guidance in the Bible on many areas of life and Christians will turn to this advice when they are faced with a dilemma. Some Christians may use a lectionary. "   
+> - " The Bible is used by Christians ___to give them guidance about how they can live their their lives in the way God would want them to.___  
+> - There is guidance in the Bible on many areas of life and Christians will turn to this advice when they are faced with a dilemma. Some Christians may use a lectionary. "   
 
 ---
 
