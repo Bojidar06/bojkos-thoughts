@@ -10,7 +10,7 @@ The only prayer they do is when they light up a candle in the church. They light
 
 <br>
 
-That's really absurd  and I really hated that. And yeah, I just described myself, that has been me for the past 15 years of my life. I have always been very interested in Philosophy of life, how does the universe work, death, the human brain... But I never though about reading the Bible.  
+That's really absurd  and annoying I really hated that. And yeah, I just described myself, that has been me for the past 15 years of my life. I have always been very interested in Philosophy of life, how does the universe work, death, the human brain... But I never though about reading the Bible.  
 Lets ask our best friend Google something:  
 
 > #### "Why do Christians read the Bible?"
