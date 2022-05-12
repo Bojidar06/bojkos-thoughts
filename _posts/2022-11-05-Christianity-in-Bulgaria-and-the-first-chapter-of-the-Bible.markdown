@@ -34,7 +34,7 @@ So today, dear readers and radio listeners, we're going to start reading the Bib
 The *creation of Everything* or *the Beggining* is an ethernal discussion. I feel like this is alike Politics and inner information - *You shouldn't know it.*  
 So if someone publishes this information to the public, he gets killed because of snitching.  
 
-So if a human beeing founds out how any of this world we live in works, the human race will be stop existing and the living creatures will be restarted, just like the dinosaurs.   
+So if a human being founds out how any of this world we live in works, the human race will be stop existing and the living creatures will be restarted, just like the dinosaurs.   
 ##### Maybe there really are things you just shouldn't know.  
 
 
