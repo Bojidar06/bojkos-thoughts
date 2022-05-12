@@ -35,11 +35,16 @@ The *creation of Everything* or *the Beggining* is an ethernal discussion. I fee
 So if someone publishes this information to the public, he gets killed because of snitching.  
 
 So if a human beeing founds out how any of this world we live in works, the human race will be stop existing and the living creatures will be restarted, just like the dinosaurs.   
-##### Maybe there really are things you just shouldn't know. 
+##### Maybe there really are things you just shouldn't know.  
+
+
+---
 
 <br>
 
-__Okey! Bible now. All this really confuses me so I'll write commends about most lines.__
+__Okey! Bible now. All this really confuses me so I'll write commends about most lines.__  
+
+Това е текстът, който трябва да прочетем и ще разсъждавам над него.
 
 <details>
   <summary>
@@ -137,6 +142,8 @@ __Okey! Bible now. All this really confuses me so I'll write commends about most
 
 Okey so I guess the logic of the Bible is that Jesus was _a son of God_ and not the actual God and creator of everything. Because I mean this theory of the _Creation of the world_ is weird.  
 According to google the Earth is 4.543 billion years of age. And according to google the modern form of humans only evolved about 200,000 years ago.  
-__So I guess google is not a christian.__ Because according to this line 
+__So I guess google is not a christian.__  
+Because according to the Bible's understanding of the Beginning of everything, 5 days God was making the Earth, nature, the sky, water... And then the 6th day God created the Human being and this human being looked like him.  
+Yeah.. All this just doesn't match.  
 
-
+Overall, the arrangement of the steps of creating the Earth is fine but everything else is just strange, or at least I don't get it.
