@@ -11,5 +11,6 @@ My name is Bozhidar Sotirov and I was born in 2006. I am from Burgas/Bulgaria. T
 
 <img style = "  border-radius: 20px; margin: 0 auto; display: block;margin-top: 30px;" src = "/bojkos-thoughts/assets/images/me.jpg" loading="lazy">
 
+А и също бг съм маняци, въпреки че повечето неща ще ги пиша на англииски, ще има и неща на бг.  
 
 <h4 style = "text-align: center; text-decoration: underline; ">Now go read my posts. Bye ;)</h4>
