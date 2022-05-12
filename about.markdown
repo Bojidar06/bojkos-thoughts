@@ -10,9 +10,13 @@ permalink: /about/
 My name is Bozhidar Sotirov and I was born in 2006. I am from Burgas/Bulgaria. This page is my **little secret**. Here I will talk about really personal things about me and about my *every day life*. I will write about stuff that I find interesting, too. This is me though:  <br>
 
 
-<img style = "  border-radius: 20px; margin: 0 auto; display: block;margin-top: 30px;" src = "/bojkos-thoughts/assets/images/me.jpg" loading="lazy">
+<img style = "  border-radius: 20px; margin: 0 auto; display: block;margin-top: 30px;" src = "/bojkos-thoughts/assets/images/me.jpg" loading="lazy">  
+  
+ <br>
 
 А и също бг съм маняци, въпреки че повечето неща ще ги пиша на англииски, ще има и неща на бг.  
 </center>
+
+<br>
 
 <h4 style = "text-align: center; text-decoration: underline; ">Now go read my posts. Bye ;)</h4>
