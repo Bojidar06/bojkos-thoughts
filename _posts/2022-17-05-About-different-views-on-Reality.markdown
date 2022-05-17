@@ -18,7 +18,9 @@ Our reality consists of three "worlds" that are interconnected and in some way i
 <br>
 
 There are philosophers who consider only "World 1" to be real. They are the so-called [materialists](https://en.wikipedia.org/wiki/Materialism) or physicalists.  
-There are others who say that only "World 2" is real - the so-called [immaterialists](https://en.wikipedia.org/wiki/Subjective_idealism).
+There are others who say that only "World 2" is real - the so-called [immaterialists](https://en.wikipedia.org/wiki/Subjective_idealism).  
+
+<br>
 
 #### Нека по-подробно да обсъдя Свят 1
 Тъй като темата ми в момента е *реалността*, бих искал да започна с тръвдението, че физическият свят 1 трябва да се разглежда като най-очевидно "реалния" от мойте три свята. С това всъщност искам да кажа, че думата "реалност" учава значението си най-напред като обозначаваща физическия свят.  
