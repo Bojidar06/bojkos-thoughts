@@ -1,6 +1,5 @@
 ---
 layout: "post"
-
 ---
 
 [_Christianity_](https://www.britannica.com/topic/Christianity) is something people in Bulgaria take for granted. Most people say they are __christians__ but they know nothing about _the Bible_, about Jesus, they do [sins](https://en.wikipedia.org/wiki/Sin), they only go to church when someone on the television says that today is a type of holiday when you go to church...
