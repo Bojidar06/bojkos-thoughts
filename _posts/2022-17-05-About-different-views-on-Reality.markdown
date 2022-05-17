@@ -15,6 +15,8 @@ Our reality consists of three "worlds" that are interconnected and in some way i
 
 ---
 
+<br>
+
 There are philosophers who consider only "World 1" to be real. They are the so-called [materialists](https://en.wikipedia.org/wiki/Materialism) or physicalists.  
 There are others who say that only "World 2" is real - the so-called [immaterialists](https://en.wikipedia.org/wiki/Subjective_idealism).
 
