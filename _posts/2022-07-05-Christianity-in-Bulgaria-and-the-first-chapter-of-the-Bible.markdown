@@ -1,6 +1,7 @@
 ---
 layout: post
-title: About
+title:  "Christianity in Bulgaria and the first chapter of the Bible"
+date:   2022-05-07 15:12:29 +0300
 ---
 
 [_Christianity_](https://www.britannica.com/topic/Christianity) is something people in Bulgaria take for granted. Most people say they are __christians__ but they know nothing about _the Bible_, about Jesus, they do [sins](https://en.wikipedia.org/wiki/Sin), they only go to church when someone on the television says that today is a type of holiday when you go to church...
