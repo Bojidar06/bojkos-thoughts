@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Eating Chicken Meat"
-date:   2022-09-08
+date:   2022-05-23 15:45:29 +0300
 ---
-
 
 so you definitely do not want to eat
 chicken again until you watch this video
