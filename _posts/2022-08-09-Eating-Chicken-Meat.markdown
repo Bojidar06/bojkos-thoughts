@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eating Chicken Meat"
-date:   2022-07-21
+date:   2022-09-08
 ---
 
 
