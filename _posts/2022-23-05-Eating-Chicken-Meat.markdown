@@ -42,7 +42,7 @@ grow and mature a chicken nowadays it
 takes 47 days a month and a half to a
 full adult chicken
 
-| <u>**Time needed to grow and mature a chicken**</u> |~~~~~~~~~~|
+|    **Time needed to grow and mature a chicken**     |~~~~~~~~~~|
 |-----------------------------------------------------|----------|
 | Year 1925                                           | 125 days |
 | Nowadays: Year 2022                                 | 47 days  |
