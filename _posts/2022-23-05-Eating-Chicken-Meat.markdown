@@ -4,26 +4,52 @@ title:  "Eating Chicken Meat"
 date:   2022-05-23 15:45:29 +0300
 ---
 
-so you definitely do not want to eat
-chicken again until you watch this video
-did you realize that there's or nine
+
+
+Yeah, I have been a **vegan/vegetarian** for the past like 4 weeks now. But today, I don't want to talk about how eating meat is bad and stuff.  
+No. I've been eating meat my whole life. And even though I now have a much different perspective on meat eating because I read a lot about _food and health_, I will not try convince you not to eat meat today.   
+
+Today, dear readers, dear students or whatever, dear hot ladies, I'll inform you a bit more about the money and production side on the **Meat Industry**.
+
+---  
+
+
+<center>
+
+### Хапвайте си яйчица, паржоля и кюфтета, но преди това трябва да знаете тези неща...
+
+</center>
+
+Did you realize that there's **nine
 billion chickens and turkeys sold every
 single year and 99.9 percent of them are
-factory farmed okay they're very very
-cheap the other day I was in the grocery
-store with my videographer and we were
+factory farmed**.
+
+Okay, they're very very cheap.<br>
+The other day I was in the grocery
+store with my mom and we were
 looking at food and they had these fully
-cooked chickens for four dollars I'm
-thinking how can they afford to sell
-these because the grocery store needs a
-profit the distribution center needs a
-profit how much do they really invest in
+cooked chickens for four dollars.<br>
+I'm thinking how can they afford to sell
+these because the **grocery store needs a
+profit, the distribution center needs a
+profit**.<br>
+How much do they really invest in
 feeding these animals and taking care of
-them now it's really interesting in 1925
+them?  
+
+Now it's really interesting in 1925
 it took a hundred twenty-five days to
 grow and mature a chicken nowadays it
 takes 47 days a month and a half to a
-full adult chicken incredible now
+full adult chicken
+
+| <u>**Time needed to grow and mature a chicken**</u> |~~~~~~~~~~|
+|-----------------------------------------------------|----------|
+| Year 1925                                           | 125 days |
+| Nowadays: Year 2022                                 | 47 days  |
+
+incredible now
 there's a thing called CAFOs confined
 animal feeding operations okay this is
 part of the factory farming and I'm
