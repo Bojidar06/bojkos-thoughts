@@ -6,6 +6,7 @@ date:   2022-05-23 15:45:29 +0300
 
 
 
+
 Yeah, I have been a vegan/vegetarian for the past like 4 weeks now. But today, I don't want to talk about how eating meat is bad and stuff.  
 No. I've been eating meat my whole life. And even though I now have a much different perspective on meat eating because I read a lot about _food and health_, I will not try convince you not to eat meat today.   
 
@@ -13,11 +14,10 @@ Today, dear readers, dear students or whatever, dear hot ladies, I'll inform you
 
 ---  
 
-<br>
+
 
 ### Хапвайте си яйчица, паржоля и кюфтета, но преди това трябва да знаете тези неща...
 
-<br>
 
 Did you realize that there's **nine
 billion chickens and turkeys sold every
@@ -39,9 +39,9 @@ them?
 
 Now it's really interesting in 1925
 it took a hundred twenty-five days to
-grow and mature a chicken nowadays it
+grow and mature a chicken. Nowadays it
 takes 47 days a month and a half to a
-full adult chicken
+full adult chicken.
 
 |    **Time needed to grow and mature a chicken**     |~~~~~~~~~~|
 |-----------------------------------------------------|----------|
