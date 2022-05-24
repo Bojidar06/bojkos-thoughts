@@ -86,7 +86,7 @@ They don't want you to fucking know. Cause if you knew, you probably wouldn't ea
   <div class="column">
     <img src="http://beyondpesticides.org/dailynewsblog/wp-content/uploads/2020/04/poultry-farm-1544654_1920.jpg" alt="" style="width:100%">
   </div>
-  <div class="column">
+  <div>
     <img src="https://psmag.com/.image/t_share/MTU4NDQ5NzgzNDI4NjIxNTcw/hog-cafo.jpg" alt="" style="width:100%">
   </div>
 </div>
@@ -95,11 +95,10 @@ They don't want you to fucking know. Cause if you knew, you probably wouldn't ea
 <style>
 .column {
   float: left;
-  width: 33.33%;
+  width: 50%;
   padding: 5px;
 }
 
-/* Clear floats after image containers */
 .row::after {
   content: "";
   clear: both;
