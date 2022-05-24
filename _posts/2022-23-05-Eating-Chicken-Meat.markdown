@@ -81,13 +81,13 @@ They don't want you to fucking know. Cause if you knew, you probably wouldn't ea
 
 <div class="row">
   <div class="column">
-    <img src="https://miro.medium.com/max/660/1*31BRbZxHi9E4mXeE5ySi5g.jpeg" alt="" style="width:100%">
+    <img "src="https://miro.medium.com/max/660/1*31BRbZxHi9E4mXeE5ySi5g.jpeg" alt="" style="width:100%; border-radius: 7%;">
   </div>
-  <div style = "  float: right; width: 40%; padding: 5px;  border-radius: 10%;">
-    <img src="http://beyondpesticides.org/dailynewsblog/wp-content/uploads/2020/04/poultry-farm-1544654_1920.jpg" alt="" style="width:100%">
+  <div style = "  float: right; width: 40%; padding: 5px;  border-radius: 7%;">
+    <img src="http://beyondpesticides.org/dailynewsblog/wp-content/uploads/2020/04/poultry-farm-1544654_1920.jpg" alt="" style="width:100% border-radius: 7%;">
   </div>
   <div>
-    <img class = "center" src="https://psmag.com/.image/t_share/MTU4NDQ5NzgzNDI4NjIxNTcw/hog-cafo.jpg" alt="" style="width:70%; border-radius: 10%;">
+    <img class = "center" src="https://psmag.com/.image/t_share/MTU4NDQ5NzgzNDI4NjIxNTcw/hog-cafo.jpg" alt="" style="width:70%; border-radius: 7%;">
   </div>
 </div>
 
@@ -95,7 +95,7 @@ They don't want you to fucking know. Cause if you knew, you probably wouldn't ea
 <style>
 .column {
   float: left;
-  width: 40%;
+  width: 44%;
   padding: 5px;
   border-radius: 10%;
 }
