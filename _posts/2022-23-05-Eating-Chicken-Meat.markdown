@@ -6,7 +6,6 @@ date:   2022-05-23 15:45:29 +0300
 
 
 
-
 Yeah, I have been a vegan/vegetarian for the past like 4 weeks now. But today, I don't want to talk about how eating meat is bad and stuff.  
 No. I've been eating meat my whole life. And even though I now have a much different perspective on meat eating because I read a lot about _food and health_, I will not try convince you not to eat meat today.   
 
@@ -43,7 +42,7 @@ grow and mature a chicken. Nowadays it
 takes 47 days a month and a half to a
 full adult chicken.
 
-|    **Time needed to grow and mature a chicken**     |~~~~~~~~~~|
+|    **Time needed to grow and mature a chicken**     | ~~~~~~~~ |
 |-----------------------------------------------------|----------|
 | Year 1925                                           | 125 days |
 | Nowadays: Year 2022                                 | 47 days  |
