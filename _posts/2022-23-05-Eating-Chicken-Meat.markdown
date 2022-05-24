@@ -97,7 +97,6 @@ They don't want you to fucking know. Cause if you knew, you probably wouldn't ea
   float: left;
   width: 44%;
   padding: 5px;
-  border-radius: 7%;
 }
 
 .row::after {
