@@ -39,7 +39,7 @@ them?
 Now it's really interesting in 1925
 it took a hundred twenty-five days to
 grow and mature a chicken. Nowadays it
-takes 47 days a month and a half to a
+takes 47 to a
 full adult chicken.
 
 |    **Time needed to grow and mature a chicken**     | ~~~~~~~~ |
