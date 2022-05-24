@@ -5,8 +5,6 @@ date:   2022-05-23 15:45:29 +0300
 ---
 
 
-
-
 Yeah, I have been a vegan/vegetarian for the past like 4 weeks now. But today, I don't want to talk about how eating meat is bad and stuff.  
 No. I've been eating meat my whole life. And even though I now have a much different perspective on meat eating because I read a lot about _food and health_, I will not try convince you not to eat meat today.   
 
@@ -79,3 +77,33 @@ There are: <br>
 I won't explain the difference but in simple words, they treat the animals like shit in all the cases.<br>
 Its all a bunch of bullshit. Its just another huge business. I mean like there is a reason why its illegal to take pictures and videos in facilities where food animals are raised or slaughtered.<br>
 They don't want you to fucking know. Cause if you knew, you probably wouldn't eat meat anymore.
+
+
+<div class="row">
+  <div class="column">
+    <img src="https://miro.medium.com/max/660/1*31BRbZxHi9E4mXeE5ySi5g.jpeg" alt="" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="http://beyondpesticides.org/dailynewsblog/wp-content/uploads/2020/04/poultry-farm-1544654_1920.jpg" alt="" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://psmag.com/.image/t_share/MTU4NDQ5NzgzNDI4NjIxNTcw/hog-cafo.jpg" alt="" style="width:100%">
+  </div>
+</div>
+
+
+<style>
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+</style>
