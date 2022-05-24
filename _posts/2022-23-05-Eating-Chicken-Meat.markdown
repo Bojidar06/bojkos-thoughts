@@ -95,7 +95,7 @@ They don't want you to fucking know. Cause if you knew, you probably wouldn't ea
 <style>
 .column {
   float: left;
-  width: 50%;
+  width: 40%;
   padding: 5px;
 }
 
