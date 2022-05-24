@@ -87,7 +87,7 @@ They don't want you to fucking know. Cause if you knew, you probably wouldn't ea
     <img src="http://beyondpesticides.org/dailynewsblog/wp-content/uploads/2020/04/poultry-farm-1544654_1920.jpg" alt="" style="width:100% border-radius: 7%;">
   </div>
   <div>
-    <img class = "center" src="https://psmag.com/.image/t_share/MTU4NDQ5NzgzNDI4NjIxNTcw/hog-cafo.jpg" alt="" style="width:70%; border-radius: 7%;">
+    <img class = "center" src="https://psmag.com/.image/t_share/MTU4NDQ5NzgzNDI4NjIxNTcw/hog-cafo.jpg" alt="" style="width:70%; border-radius: 7%; padding-top: 10px;">
   </div>
 </div>
 
