@@ -6,6 +6,7 @@ date:   2022-05-23 15:45:29 +0300
 
 
 
+
 Yeah, I have been a vegan/vegetarian for the past like 4 weeks now. But today, I don't want to talk about how eating meat is bad and stuff.  
 No. I've been eating meat my whole life. And even though I now have a much different perspective on meat eating because I read a lot about _food and health_, I will not try convince you not to eat meat today.   
 
@@ -47,101 +48,34 @@ full adult chicken.
 |-----------------------------------------------------|----------|
 | Year 1925                                           | 125 days |
 | Nowadays: Year 2022                                 | 47 days  |
-
-incredible now
-there's a thing called CAFOs confined
-animal feeding operations okay this is
-part of the factory farming and I'm
-going to put some links below on this
-next topic but when they were testing
-what's in the chicken and what's in the
-feathers and the beak in the claws they
-found antibiotics okay
-antibiotics which were banned previously
-they found antibiotics so I'm trying to
-figure out how that got in there now
-they found arsenic now arsenic is a
-poison and arsenic makes the chicken
-meat look very very pink and it also
-acts as an antibiotic arsenic is highly
-concentrated in the feathers the problem
-is they use the feathers as a feed to
-feed the chicken so it comes right back
-they found residues of Benadryl
-acetaminophen prozac and they basically
-use these three for anxiety because
+ 
+<br> 
+  
+Okey now <br>
+There's a thing called _"CAFOs confined
+animal feeding operations"._<br>
+This is a part of the factory farming. One organization took one chicken that
+was in a factory and tested what's in the chicken and what's in the
+feathers and the beak.<br>
+In the claws they found **antibiotics**.<br>
+So I'm trying to figure out how that got in there.<br>
+They also found **arsenic**. Now arsenic is a
+poison and arsenic makes the chicken meat look very very pink and it also
+acts as an antibiotic. Arsenic is highly
+concentrated in the feathers.<br>
+The problem is they use the feathers as a feed to feed the chicken so it comes right back.
+<br>
+The meat industry uses these two chemicals for anxiety because
 these poor chickens are so tightly
-packed but the way they wake them up is
-they give them caffeine okay you have to
-keep them feeding to so they can grow
-and also they're fed vegetarian food and
-when you buy chicken sometimes it has
-this label of this incredible nice
-natural farm
-it says natural minimally processed it
-says fed vegetarian food which is really
-GMO grains like corn and soy but I want
-to explain
-the difference between cage-free and
-free-range because a lot of people have
-a confusion on this cage-free means that
-they're no longer in the cage and by the
-way when they're in the cage it's only
-basically the size of a piece of paper
-that they're able to live on and that's
-about it but cage free means they're
-able to leave the cage go into the barn
-which is about a hundred thousand
-chickens in a very small space so they
-don't really have that much more space
-free range is basically they no longer
-in the cage they're in the barn but
-there's a hole and they can leave the
-barn occasionally they don't really tell
-you how often they can leave the barn
-but there is access to leave the barn
-that that's what free range means
-pasture-raised means that they're
-outside the barn so when you consume
-chickens or eggs you want pasture raised
-and organic between 1940 and 1971
-millions of women were given something
-called des diethylstilbestrol this is a
-very powerful estrogen okay now it was
-banned in 1971 because it was not only
-found ineffective but it was found to be
-very harmful and caused miscarriages not
-only in first generation but second and
-third generation but what a lot of
-people don't know is the greatest usage
-of this des was to livestock and it
-wasn't banned until 1979 so if you were
-born before 1979 chances are you were
-probably exposed to DES and des really
-affects the endocrine system the thyroid
-the ovary the testicle the pancreas and
-as a side note I want to bring up
-something a little disgusting it's
-called poultry litter okay that's
-basically chicken feces or chicken poop
-they actually use this in many different
-conventional feed Lots for cattle okay
-but you can't actually feed this to
-chickens but you can feed it to cattle
-alright guys so I'm sorry to discuss you
-it probably nauseous right now and you
-probably lost your appetite but just
-realize there's two options okay you can
-continue to buy the conventional factory
-farm chicken or you can start buying
-organic chicken yes it's more expensive
-but this stuff comes with a package it's
-much healthier to actually spend a
-little bit more go to the farmers market
-buy chicken that has been raised on the
-land that's pasture aids that you know
-it's been this chicken has been taken
-care of yes it's about $20 a pound but
-it's going to be much healthier for you
-and it's going to be worth it in the
-long run okay
+packed and the way they wake them up is
+they give them caffeine.<br>
+
+When you buy meat, most of the times it has a label which states the way the animals are farmed.<br>
+There are: <br>
+1. natural farm
+2. cage-free 
+3. free-range 
+
+I won't explain the difference but in simple words, they treat the animals like shit in all the cases.<br>
+Its all a bunch of bullshit. Its just another huge business. I mean like there is a reason why its illegal to take pictures and videos in facilities where food animals are raised or slaughtered.<br>
+They don't want you to fucking know. Cause if you knew, you probably wouldn't eat meat anymore.
