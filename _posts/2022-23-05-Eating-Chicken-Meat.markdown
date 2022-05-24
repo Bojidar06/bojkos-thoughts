@@ -52,9 +52,10 @@ full adult chicken.
 Okey now <br>
 There's a thing called _"CAFOs confined
 animal feeding operations"._<br>
-This is a part of the factory farming. One organization took one chicken that
+This is a part of the factory farming.<br>
+One organization took one chicken that
 was in a factory and tested what's in the chicken and what's in the
-feathers and the beak.<br>
+feathers, beak, claws.. its whole body.<br>
 In the claws they found **antibiotics**.<br>
 So I'm trying to figure out how that got in there.<br>
 They also found **arsenic**. Now arsenic is a
