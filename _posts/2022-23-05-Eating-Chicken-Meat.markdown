@@ -95,7 +95,7 @@ They don't want you to fucking know. Cause if you knew, you probably wouldn't ea
 <br>
 
 By the way a film that I really like and that really informed me good about different sports, health and meat eating is [this one](https://gamechangersmovie.com/).<br>
-Its called "The Game Changers". You can find it and watch it for free in many websites. Here is one of them:<br>
+Its called "The Game Changers". You can find it and watch it for free in many websites.<br>Here is one of them:<br>
 [Click here](https://watchdocumentaries.com/the-game-changers/)
 
 
