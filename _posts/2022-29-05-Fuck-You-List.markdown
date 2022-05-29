@@ -12,3 +12,18 @@ I'll make it easier though. The hashing algorithm is *ADLER32*.
 <br>
 
 Wellcome to my [shitlist](https://www.urbandictionary.com/define.php?term=shitlist).
+
+<br><br>
+
+### Fuck you for stealing my phone from my hand while I was coming back from school and I was talking to my father, when, I was 4th grade. Fuck you (133a03ea)  
+### Fuck you 
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
