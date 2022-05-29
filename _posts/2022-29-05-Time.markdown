@@ -4,7 +4,7 @@ title:  "Time"
 date:  2022-05-29 15:35:29 +0300
 ---
 
-### Before we start, lets play some nice music
+### Before we start, lets play some nice music.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3neszfVeLbV5zJmAABsWs0?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
@@ -56,7 +56,7 @@ I was at school and I had Literature. We read this:
 отбрулен лист
 без свои цели.
 ```
-It's a dark work or art. My teacher said he want us to pick an object from the text and demonize it.  
+It's a dark work of art. My teacher said he want us to pick an object from the text and demonize it.  
 I chose the clock as the representation of time - from those lines:  
 > вървя унесен  
 > и тръпна цял:  
