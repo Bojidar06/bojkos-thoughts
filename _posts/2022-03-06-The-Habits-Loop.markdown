@@ -28,3 +28,5 @@ Though it is nice to know you're not alone.
 For me, [this is the person who made me realize that](https://www.instagram.com/mc.pavlidis/).
 
 Talking with him was the nicest thing ever. He made me realize that I'm really not the only one. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Once I fully internalized the idea that my decisions each day had a direct impact on my future self, I started being more thoughtful.<br><br>I started asking whether daily habits would be something my future self would thank me for.<br><br>It’s not always clear, but it’s a helpful heuristic.</p>&mdash; Sahil Bloom (@SahilBloom) <a href="https://twitter.com/SahilBloom/status/1531404188617478145?ref_src=twsrc%5Etfw">May 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
