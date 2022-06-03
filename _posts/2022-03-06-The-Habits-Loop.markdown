@@ -4,9 +4,8 @@ title:  "The Habits Loop"
 date:  2022-06-03 20:35:29 +0300
 ---
 
-<br>
 <center>
-<img style = "border-radius: 45px;" src = "https://4.bp.blogspot.com/-TqaMm_Mbnqs/W22gr172q2I/AAAAAAAANH4/kA58ebPJuXsLl-JGfTTA8yN-JUY2fzrUACLcBGAs/s640/main-qimg-75a21e64de01b16213b26bdc7ac25b03.png">
+<img style = "border-radius: 40px;" src = "https://4.bp.blogspot.com/-TqaMm_Mbnqs/W22gr172q2I/AAAAAAAANH4/kA58ebPJuXsLl-JGfTTA8yN-JUY2fzrUACLcBGAs/s640/main-qimg-75a21e64de01b16213b26bdc7ac25b03.png">
 </center>
 <br>
 
