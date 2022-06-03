@@ -28,5 +28,3 @@ Though it is nice to know you're not alone.
 For me, [this is the person who made me realize that](https://www.instagram.com/mc.pavlidis/).
 
 Talking with him was the nicest thing ever. He made me realize that I'm really not the only one. 
-
-<br>
