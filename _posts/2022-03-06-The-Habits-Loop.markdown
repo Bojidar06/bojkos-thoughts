@@ -36,7 +36,7 @@ Talking with him was the nicest thing ever. He made me realize that I'm really n
 
 [Habits](https://en.wikipedia.org/wiki/Habit) are something incredibly powerful. They are like phones - could be a huge distraction and a waste of time, but they could be very very useful.  
 If you know the Psychology of habits, if you can control what habits you pick to repeat, you've mastered your mind.  
-Imagine you've such a strong-minded individual and you achive anything you think of because you don't give up and have a nice routine. A routine that you have the discipline to do no matter if you've if, if it's raining or whatever.  
+Imagine you've such a strong-minded individual and you achive anything you want to because you don't give up and have a nice routine. A routine that you have the discipline to follow no matter if you're ill, if it's raining or whatever.  
 
 <br>
 
