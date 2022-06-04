@@ -19,6 +19,6 @@ jk. I really don't look like that. Photography is a fake science. It's all about
 <h4> А и също бг съм маняци, въпреки че повечето неща ще ги пиша на английски, ще има и неща на бг. </h4>
 </center>
  
-<br>
+<br><br>
 
 <h4 style = "text-align: center; text-decoration: underline; ">Now go read my posts. Bye ;)</h4>
