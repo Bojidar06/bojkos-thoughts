@@ -8,34 +8,16 @@ date:  2022-06-04 20:35:29 +0300
 
 <br><br>
 
-That's not really a post. Lets just listen to some electronics together :)
+
+<h4 style = "text-align: center;"> That's not really a post. Lets just listen to some electronics together :) </h4>
+
+<br><br>
 
 
 <a class="btn" href="#">&#127911;</span></a>
 
-:blush:
-
 
 <style>
-
-* {
-  box-sizing: border-box;
- }
-
-html {
-  height: 100%;
- }
-
-body {
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -ms-user-select: none;
-  -o-user-select: none;
-  user-select: none;
-  display: flex;
-  height: 100%;
-}
-
 .btn {
   display: flex;
   margin: auto;
@@ -47,6 +29,7 @@ body {
   background: #009aff;
   width: 70px;
   height: 70px;
+  padding-left: 8.7px;
   border-radius: 50%;
   animation: pulse 2s ease-out infinite;
 }
