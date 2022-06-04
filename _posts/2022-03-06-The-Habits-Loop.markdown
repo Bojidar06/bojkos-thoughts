@@ -17,7 +17,7 @@ Someone who doesn't follow the pack.
 
 Trying to be this type of person and failing again and again fucking sucks. Again and again. Feeling like you're not progressing, instead you're circling in a loop. Seeing an old friend that has grown so much and is a strong-minded person and you feeling like a dumb fucking kid is depressing.  
 
-Falling back to something you've been addicted to for years, and have been trying to quit it forever but kept failing. It fucking feels like giving up on everything.
+Falling back to something you've been addicted to for years, something you've been trying to quit for years but keep failing. It fucking feels like giving up on everything.
 
 <br>
 
