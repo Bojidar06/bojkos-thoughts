@@ -14,7 +14,7 @@ date:  2022-06-04 20:35:29 +0300
 <br><br>
 
 
-<a class="btn" href="#">&#127911;</span></a>
+<a class="btn" href="#"><span>&#127911;</span></a>
 
 
 <style>
@@ -29,7 +29,6 @@ date:  2022-06-04 20:35:29 +0300
   background: #009aff;
   width: 70px;
   height: 70px;
-  padding-left: 8.7px;
   border-radius: 50%;
   animation: pulse 2s ease-out infinite;
 }
