@@ -15,7 +15,7 @@ My name is Bozhidar Sotirov and I was born in 2006. I am from Burgas/Bulgaria. T
 <center>
 jk. I really don't look like that. Photography is a fake science. It's all about the perfect angle, light and nice editing. It's a work of art.  
  
-<br>
+<br><br>
 
 <h4> А и също бг съм маняци, въпреки че повечето неща ще ги пиша на английски, ще има и неща на бг. </h4>
 </center>
