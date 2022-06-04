@@ -10,59 +10,67 @@ date:  2022-06-04 20:35:29 +0300
 
 That's not really a post. Lets just listen to some electronics together :)
 
-<div class="centered-box">
-  <span class="heart animate-beat">🎧</span>
-</div>
+
+<a class="btn" href="#">&#127911;</span></a>
+
+:blush:
+
 
 <style>
 
-$big-fallback: 50px;
-$big-size: 25vh;
-$small-fallback: 40px;
-$small-size: 20vh;
+* {
+  box-sizing: border-box;
+ }
 
+html {
+  height: 100%;
+ }
 
-@mixin big-beat() {
-  font-size: $big-fallback; /* fallback */
-  font-size: $big-size;
-}
-
-@mixin small-beat() {
-  font-size: $small-fallback; /* fallback */
-  font-size: $small-size;
-}
-
-.centered-box {
+body {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
+  height: 100%;
 }
 
-.heart {
-  @include big-beat();
+.btn {
+  display: flex;
+  margin: auto;
+  text-decoration: none;
+  outline: none;
+  font-size: 40px;
+  cursor: pointer;
+  position: relative;
+  background: #009aff;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  animation: pulse 2s ease-out infinite;
 }
 
-.animate-beat {
-    animation: beat 1s infinite;
+span {
+  margin: auto;
+  color: transparent;
+  text-shadow: 0 0 0 white;
+ }
+
+.btn::after {
+  content: '';
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  border-radius: 50%;
+  position: absolute;
 }
 
-@keyframes beat {
-  0% {
-    @include small-beat();
-  }
-  40% {
-    @include big-beat();
-  }
-  60% {
-    @include small-beat();
-  }
-  80% {
-    @include big-beat();
-  }
-  100% {
-    @include small-beat();
-  }
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0px rgba(0,210,255,1),0 0 0 0px rgba(0,210,255,0.85);  }
+  50% { transform: scale(0.95); }
+  100% { box-shadow: 0 0 0 15px rgba(0,210,255,0),0 0 0 30px rgba(0,210,255,0); }
 }
-
 </style>
