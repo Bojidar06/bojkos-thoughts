@@ -86,7 +86,11 @@ span {
   border-radius: 50%;
   position: absolute;
 }
-
+  
+a:hover {
+  text-decoration: none;
+}
+  
 @keyframes pulse {
   0% { box-shadow: 0 0 0 0px rgba(0,210,255,1),0 0 0 0px rgba(0,210,255,0.85);  }
   50% { transform: scale(1); }
