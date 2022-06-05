@@ -10,9 +10,14 @@ date:  2022-06-04 20:35:29 +0300
 <br><br>
 
 
-<div style = "text-align: center;" class="container">
-    <h2 class="neonText">That's not really a post. Lets just listen to some electronics together :)</h2> 
- </div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h1 class="animate-charcter">That's not really a post. Lets just listen to some electronics together :)</h1>
+    </div>
+  </div>
+</div>
+
 
 
 <br><br>
@@ -22,17 +27,33 @@ date:  2022-06-04 20:35:29 +0300
 
 
 <style>
-.neonText {
+.animate-charcter
+{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #3630e3 0%,
+    #2176de 25%,
+    #13ebff 70%,
+    #3630e3 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
   color: #fff;
-  text-shadow:
-      0 0 7px #fff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 42px #0fa,
-      0 0 82px #0fa,
-      0 0 92px #0fa,
-      0 0 102px #0fa,
-      0 0 151px #0fa;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+      font-size: 190px;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
 }
   
 .btn {
