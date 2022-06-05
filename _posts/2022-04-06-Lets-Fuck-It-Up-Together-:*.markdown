@@ -10,14 +10,13 @@ date:  2022-06-04 20:35:29 +0300
 <br><br>
 
 
-<div class="container">
+<div style = "text-align: center;" class="container">
   <div class="row">
     <div class="col-md-12 text-center">
-      <h1 class="animate-charcter">That's not really a post. Lets just listen to some electronics together :)</h1>
+      <h2 class="animate-charcter">That's not really a post. Lets just listen to some electronics together :)</h2>
     </div>
   </div>
 </div>
-
 
 
 <br><br>
