@@ -10,7 +10,10 @@ date:  2022-06-04 20:35:29 +0300
 <br><br>
 
 
-<h4 style = "text-align: center;"> That's not really a post. Lets just listen to some electronics together :) </h4>
+<div style = "text-align: center;" class="container">
+    <h2 class="neonText">That's not really a post. Lets just listen to some electronics together :)</h2> 
+ </div>
+
 
 <br><br>
 
@@ -19,6 +22,19 @@ date:  2022-06-04 20:35:29 +0300
 
 
 <style>
+.neonText {
+  color: #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
+  
 .btn {
   display: flex;
   margin: auto;
