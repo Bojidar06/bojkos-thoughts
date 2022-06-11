@@ -23,7 +23,6 @@ jk. I really don't look like that. Photography is a fake science. It's all about
 <br>
 
 <h3 style = "text-align: center;">Quote of the day:</h3>
-<br>
 
 > *Животът е смъртоносна болест, която се предава по полов път.* XD XD
 
