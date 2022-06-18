@@ -31,7 +31,7 @@ Fine, but it is fucked up. If you saw a dead person on the ground, injured or de
 
 I hate the selfish, destroying and prejudiced nature of people. Why isn't canibalism normal? Why is killing a human a crime but killing an animal isn't? Humans are something more valueable? A don't think so.  
 
-But I guess that's how you should be acting to survive. You need to look after your own ass cause noone gives a single fuck about you. About your little, useless, one of the many, worthless life.  
+But I guess that's how you should be acting to survive. You need to look after your own ass cause no one gives a single fuck about you. About your little, useless, one of the many, worthless life.  
 
 <br>
 
