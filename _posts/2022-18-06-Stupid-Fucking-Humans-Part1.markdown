@@ -5,7 +5,7 @@ date:  2022-06-18 20:55:29 +0300
 ---
 
 ## Yo I fucking hate humans man.  
-And I know that sound too dramatic and oversaid but that why this is part1. I'll devide this into parts, lets make is a series of human stuff that annoy me.
+And I know that sound too dramatic and oversaid but that why this is part1. I'll devide this into parts, lets make it a series of human stuff that annoy me.
 
 ---  
 
