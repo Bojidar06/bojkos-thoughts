@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Meeting a Millionare"
+date:  2022-06-28 22:35:29 +0300
+---
+
+
 Let me tell you a bit of what happened this evening. I went to the first crypto meeting in Burgas and it was a lot more exiting than I thought. Why? Because of this guy and the things he said.  
 
 To be honest he really wasn't the prettiest man ever, but omfg his girlfriend... She was so fucking beautiful. So guys it's okey. It's almost all money. If you have a lot of money, there will be girls around you. And until today I really doubted that and I didn't think that's true. But the girls from the upper class want money as well. Personality and charisma is not enough. They want to go to vacations, buy expensive bags and have fun. Everyone wants to live that high live you know. Having financial freedom, buy expensive cars and houses and still maintaining your business and keep profiting. Yooo this guy said that he bought her 2000$ loui vuitton bag, some expensive jewelry and so on. But yeah yeah, that's not important.  
