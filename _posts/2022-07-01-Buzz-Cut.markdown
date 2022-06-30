@@ -12,4 +12,27 @@ But fuck that. First of all, one advantage is that you be shaving you own hair, 
 
 It's just an amazing hairstyle. Plus it opens your face a lot. Your eyes really pop. This hairstyle it just so easy to maintain. I love it. Guys if you are wondering if you should do a buzz cut or not - DO IT.
 
-![](/bojkos-thoughts/assets/images/long.jpg)
+
+<div class="row">
+  <div class="column">
+    <img src="/bojkos-thoughts/assets/images/long.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/bojkos-thoughts/assets/images/buzz.jpg" style="width:100%">
+  </div>
+</div>
+
+<style>
+  .column {
+  float: left;
+  width: 45%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
