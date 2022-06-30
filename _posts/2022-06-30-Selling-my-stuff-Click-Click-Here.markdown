@@ -50,7 +50,7 @@ date:   2022-06-30 20:30:29 +0300
   <img src="https://cdn.ankhang.vn/media/product/10437_m__n_h__nh_lcd_dell_se2717h_27_inch.jpg" style="width:100%">
   <h1>Dell SE2717H</h1>
   <p class="price">200 лева</p>
-  <p>Купих си този монитор, понеже исках да се занимавам с фотография, а цветовете му са наистина прекрасни и много истински. Много изчистен дизайн, перфектно запазен е.</p>
+  <p>Купих си този монитор, понеже исках да се занимавам с фотография, а цветовете му са наистина прекрасни и много истински. Много изчистен дизайн, перфектно запазен е. 27инча</p>
   <p><button><a style = "color: white" href = "https://www.technopolis.bg/bg/Monitori/Monitor-DELL-SE2717H-5Y/p/512908">Link to some website</a></button></p>
 </div>
 
