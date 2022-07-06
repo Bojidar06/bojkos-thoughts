@@ -52,7 +52,7 @@ h2{
 <div class="container-fluid">
 <div class="row">
 <div class="col-lg-6 card">
-  <img src="https://i.ytimg.com/vi/m7hut-bDcE4/maxresdefault.jpg" style="width:100%">
+  <img src="https://zoodmall.com/cdn-cgi/image/w=500,fit=contain,f=auto/http://www.welenespicshop.com/tupian12/SCY210322112_0521596593420634836.jpg" style="width:100%">
   <h2>Ajazz AK33rgb</h2>
   <p class="price">70 лева</p>
   <p>Механична клавиатура с сини switch-ове. 75% e размера. Супер удобна и готина клавиатурка обаче е доста скъпа доставката. На мен всичко общо ми излезе ~120лв</p>
