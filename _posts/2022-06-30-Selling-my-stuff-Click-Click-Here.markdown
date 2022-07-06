@@ -49,9 +49,9 @@ h2{
 
 <br><br>
 
-<div class="container-lg">
+<div class="container-fluid">
 <div class="row">
-<div class="col-lg-4 card">
+<div class="col-lg-6 card">
   <img src="https://i.ytimg.com/vi/m7hut-bDcE4/maxresdefault.jpg" style="width:100%">
   <h2>Ajazz AK33rgb</h2>
   <p class="price">70 лева</p>
@@ -63,29 +63,28 @@ h2{
 <br>
 
 
-<div class="col-lg-4 card">
+<div class="col-lg-6 card">
   <img src="https://p1.akcdn.net/full/425222267.trust-gxt-105-izza-21683.jpg" style="width:100%">
   <h2>Trust GXT 105</h2>
   <p class="price">10 лева</p>
   <p>Нормален мишок. DPI-а е хубав, подсветката е много изчистена и прията. Свети в зелено, синьо, червено и бяло като всеки цвят е различен DPI. Преди се кефих на гейминг неща, тази беше евтина и затова си я взех, но вече искам нещо безжично.</p>
   <p><button><a style = "color: white" href = "https://desktop.bg/archive/mice-trust_gxt-21683">Link to some website</a></button></p>
 </div>
+</div>
 
 <br>
 
-
-<div class="col-lg-4 card">
+<div class = "row">
+<div class="col-lg-6 card">
   <img src="https://p.jarcomputers.com/680x680/f8/HOSCOUGARGAMINGCG3MGC1NXB0001_680x680.jpg" style="width:100%">
   <h2>COUGAR Armor Gaming Chair</h2>
   <p class="price">250 лева</p>
   <p>Супер удобен и готин стол. Аз лично постоянно го изпъвам, лягам и си пускам да гледам нещо. Възможността за лягане е супер яка. overall супер стол.</p>
   <p><button><a style = "color: white" href = "https://desktop.bg/game_chairs-cougar-Armor-CG3MGC1NXB0001">Link to some website</a></button></p>
 </div>
-</div>
 
 <br>
-
-<div class="row">
+ 
 <div class="col-lg-6 card">
   <img src="https://static.bershka.net/4/photos2/2020/I/0/2/p/7244/130/800/7244130800_1_1_1.jpg?t=1603122286087" style="width:100%">
   <h2>
@@ -94,12 +93,13 @@ Bershka FUTURE-READY hoodie</h2>
   <p>Размера е S. Май вече този модел не се продава което е яко. Ако някой го кефи му го давам.</p>
   <p><button><a style = "color: white" href = ""></a>.</button></p>
 </div>
+</div>
 
 
 <br>
 
-
-<div class="col-lg-6 card">
+<div class = "row">
+<div class="col-lg-12 card">
   <img src="https://www.technopolis.bg/medias/sys_master/h35/h50/26804310605854.jpg" style="width:100%">
   <h2>YAMAHA C30 КИТАРА</h2>
   <p class="price">200 лева</p>
