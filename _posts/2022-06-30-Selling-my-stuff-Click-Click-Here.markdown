@@ -112,7 +112,7 @@ Bershka FUTURE-READY hoodie</h2>
 </div>
  
 <div class="col-lg-6 card">
-  <img src="https://cdn.ankhang.vn/media/product/10437_m__n_h__nh_lcd_dell_se2717h_27_inch.jpg" style="width:100%">
+  <img src="https://s13emagst.akamaized.net/products/4455/4454838/images/res_61fb6a6314b4dea2262d4a3114c52ff1.jpg?width=450&height=450&hash=9040884693018BE3A6E850982A5C21F5" style="width:100%">
   <h1>Dell SE2717H</h1>
   <p class="price">200 лева</p>
   <p>Купих си този монитор, понеже исках да се занимавам с фотография, а цветовете му са наистина прекрасни и много истински. Много изчистен дизайн, перфектно запазен е.</p>
