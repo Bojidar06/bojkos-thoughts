@@ -103,14 +103,25 @@ Bershka FUTURE-READY hoodie</h2>
 <br>
 
 <div class = "row">
-<div class="col-lg-12 card">
+<div class="col-lg-6 card">
   <img src="https://www.technopolis.bg/medias/sys_master/h35/h50/26804310605854.jpg" style="width:100%">
   <h2>YAMAHA C30 КИТАРА</h2>
   <p class="price">200 лева</p>
   <p>Ако искаш да започнеш да свириш на китара това е the one. След много research, стигнах до извода, че тази е супер избор. Насвирих се и вече я прадавам.<br>+Стойка за закачане на стена(или някъде другаде) + перце</p>
   <p><button><a style = "color: white" href = "https://www.technopolis.bg/bg/Muzikalni-instrumenti/KLASIChESKA-KITARA-YAMAHA-C30/p/156468"></a>Link to some website</button></p>
 </div>
+ 
+<div class="col-lg-6 card">
+  <img src="https://cdn.ankhang.vn/media/product/10437_m__n_h__nh_lcd_dell_se2717h_27_inch.jpg" style="width:100%">
+  <h1>Dell SE2717H</h1>
+  <p class="price">200 лева</p>
+  <p>Купих си този монитор, понеже исках да се занимавам с фотография, а цветовете му са наистина прекрасни и много истински. Много изчистен дизайн, перфектно запазен е.</p>
+  <p><button><a style = "color: white" href = "https://www.technopolis.bg/bg/Monitori/Monitor-DELL-SE2717H-5Y/p/512908">Link to some website</a></button></p>
 </div>
+</div>
+
+<br>
+ 
 </div>
 
   
