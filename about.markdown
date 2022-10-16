@@ -25,6 +25,8 @@ jk. I really don't look like that. Photography is a fake science. It's all about
 <h3 style = "text-align: center;">Quote of the day:</h3>
 
 > *Животът е смъртоносна болест, която се предава по полов път.* XD XD
+> *The whole world is concentrated in a second of orgasm.*
+> *Life moto in a username be like pussy_money_weed.* 
 
 <br>
 
